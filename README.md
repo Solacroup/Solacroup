@@ -1,7 +1,7 @@
 # Hi, I'm Morgane 👋
 
 
-*Full Stack web-developer to be* :mortar_board::computer:
+*Full Stack web-developer to be* :computer:
 
 ## A few things about me :woman:
 
