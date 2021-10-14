@@ -6,9 +6,9 @@
 ## A few things about me :woman:
 
 
-###  :lips: Languages: 
+###  :lips: Languages 
 "C", "Python", "HTML", "CSS", "JavaScript"
-###  :mortar_board: Certification:
+###  :mortar_board: Certification
 Front End Developper
 
 
