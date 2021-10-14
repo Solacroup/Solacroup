@@ -3,12 +3,12 @@
 
 *Full Stack web-developer to be* :mortar_board::computer:
 
-## A few things about me :
+## A few things about me :woman:
 
 
-###  Languages: 
+###  :lips: Languages: 
 "C", "Python", "HTML", "CSS", "JavaScript"
-###  Certification:
+###  :mortar_board: Certification:
 Front End Developper
 
 
