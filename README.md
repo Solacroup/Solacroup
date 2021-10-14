@@ -10,6 +10,11 @@
 "C", "Python", "HTML", "CSS", "JavaScript"
 ###  :mortar_board: Certification
 Front End Developper
+###  :ok_hand: Soft skills
+Empathy, discipline, perfectionism
+###  :four_leaf_clover: Hobbies
+Travel, animal ethology, hiking
+
 
 
 
