@@ -1,7 +1,7 @@
 # Hi, I'm Morgane 👋
 
 
-*Full Stack web-developer to be* :computer:
+*Soon to be Full Stack web-developer* :computer:
 
 ## A few things about me :woman:
 
